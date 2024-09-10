@@ -12,10 +12,10 @@
 <body>
     <div class="header">
         <div class="top">
-            <h1>Anantha subhas</h1>
-            <h2>subhasannadurai333@gmail.com</h2>
-            <h3><i class="fa-solid fa-phone"></i> 9500239173</h3>
-            <a style="color: black; font-size: 22px;" href="https://github.com/Anantha-subhas/"><i
+            <h1>Balaji T</h1>
+            <h2>bharubalaji67@gmail.com</h2>
+            <h3><i class="fa-solid fa-phone"></i> 7604953009</h3>
+            <a style="color: black; font-size: 22px;" href="https://github.com/Balaji677/"><i
                     style="margin-right: 10px;" class="fa-brands fa-github"></i>Github</a>
         </div>
         <div class="img">
